@@ -1,0 +1,30 @@
+{
+  "name": "demo-web-test-framework",
+  "version": "1.0.0",
+  "description": "A demonstration of how to write automation tests for web using nodeJS",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tochis-dev-repo@github.com/tochis-dev-repo/demo-web-test-framework.git"
+  },
+  "keywords": [
+    "selenium",
+    "automation",
+    "framework",
+    "web",
+    "testing",
+    "nodeJS"
+  ],
+  "author": "Tochi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tochis-dev-repo/demo-web-test-framework/issues"
+  },
+  "homepage": "https://github.com/tochis-dev-repo/demo-web-test-framework#readme"
+}
